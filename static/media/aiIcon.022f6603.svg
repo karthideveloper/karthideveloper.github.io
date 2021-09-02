@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="81" height="80" viewBox="0 0 81 80">
+  <defs>
+    <filter id="Rectangle_71" x="0" y="0" width="81" height="80" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feFlood flood-color="#b69eff"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_39" data-name="Group 39" transform="translate(744 -2715.613)">
+    <g transform="matrix(1, 0, 0, 1, -744, 2715.61)" filter="url(#Rectangle_71)">
+      <rect id="Rectangle_71-2" data-name="Rectangle 71" width="39" height="38" rx="7" transform="translate(21 21)" fill="#fff"/>
+    </g>
+    <g id="Layer_2" data-name="Layer 2" transform="translate(-723.518 2735.982)">
+      <g id="Layer_1" data-name="Layer 1" transform="translate(0 0)">
+        <g id="Layer_2-2" data-name="Layer 2">
+          <g id="Surfaces">
+            <g id="Drawing_Surface" data-name="Drawing Surface">
+              <g id="Outline_no_shadow" data-name="Outline no shadow">
+                <path id="Path_511" data-name="Path 511" d="M7.09,0H32.946a7.083,7.083,0,0,1,7.09,7.09V31.945a7.083,7.083,0,0,1-7.09,7.09H7.09A7.083,7.083,0,0,1,0,31.945V7.09A7.083,7.083,0,0,1,7.09,0Z" transform="translate(0 0)" fill="#300"/>
+              </g>
+            </g>
+          </g>
+          <g id="Outlined_Mnemonics_Logos" data-name="Outlined Mnemonics Logos" transform="translate(8.273 8.658)">
+            <g id="Ai">
+              <path id="Path_512" data-name="Path 512" d="M60.719,73.329H54.513l-1.268,3.92a.292.292,0,0,1-.317.234H49.792c-.183,0-.234-.1-.183-.3L54.98,61.718c.05-.167.1-.35.167-.55a5.827,5.827,0,0,0,.1-1.084.167.167,0,0,1,.133-.183H59.7c.133,0,.2.05.217.133l6.089,17.182c.05.184,0,.267-.167.267H62.354a.252.252,0,0,1-.267-.184Zm-5.238-3.386h4.237c-.1-.35-.234-.767-.384-1.2s-.3-.934-.45-1.435-.317-1.018-.484-1.535-.317-1-.45-1.485-.25-.9-.367-1.3h-.033a20.481,20.481,0,0,1-.567,2.152c-.25.8-.5,1.635-.767,2.469-.234.851-.484,1.635-.734,2.335Z" transform="translate(-49.59 -58.565)" fill="#ff9a00"/>
+              <path id="Path_513" data-name="Path 513" d="M159.546,56.087a2.065,2.065,0,0,1-1.485-.584,2.169,2.169,0,0,1-.567-1.535,1.963,1.963,0,0,1,.6-1.485,2.137,2.137,0,0,1,1.485-.584,2,2,0,0,1,1.518.584,2.293,2.293,0,0,1-.033,3.019A1.962,1.962,0,0,1,159.546,56.087Zm-1.868,14.48V57.722c0-.167.067-.234.217-.234h3.3c.15,0,.217.083.217.234V70.567c0,.184-.067.267-.217.267h-3.27a.234.234,0,0,1-.25-.267Z" transform="translate(-139.493 -51.9)" fill="#ff9a00"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
